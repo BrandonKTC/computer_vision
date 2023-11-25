@@ -12,16 +12,16 @@ def draw_circle(event, x,y, flags, param):
         
         drawing = True
         
-    elif event == cv2.EVENT_MBUTTONDOWN:
+    elif event == cv2.EVENT_MOUSEMOVE:
         if drawing == True:
             
-            cv2.circle(img, (x,y) , 100, (0,0,255))
+            cv2.circle(img, (x,y) , 100, (0,0,255), 7)
             
     elif event == cv2.EVENT_LBUTTONUP:
         
         drawing = False
         
-        cv2.circle(img, (x, y),100, (0,0,255))
+        cv2.circle(img, (x,y), 100, (0,0,255), 7)
     
 
 cv2.namedWindow('dog')
@@ -29,7 +29,7 @@ cv2.setMouseCallback('dog',draw_circle)
 
 # showing img with OpenCV
 
-img = cv2.cvtColor(cv2.imread('dog_backpack.jpg'), cv2.COLOR_BGR2RGB)
+img = cv2.imread('dog_backpack.jpg')
 
 while True:
     

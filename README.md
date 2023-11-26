@@ -5,8 +5,8 @@ I'll be exploring how to use Python and the OpenCV (Open Computer Vision) librar
 
 - [x] Understand basics of NumPy
 - [x] Manipulate and open Images with NumPy
-- [] Use OpenCV to work with image files
-- [] Use Python and OpenCV to draw shapes on images and videos
+- [x] Use OpenCV to work with image files
+- [x] Use Python and OpenCV to draw shapes on images and videos
 - [] Perform image manipulation with OpenCV, including smoothing, blurring, thresholding, and morphological operations.
 - [] Create Color Histograms with OpenCV
 - [] Open and Stream video with Python and OpenCV

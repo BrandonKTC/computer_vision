@@ -13,7 +13,7 @@ I'll be exploring how to use Python and the OpenCV (Open Computer Vision) librar
 - [x] Detect Objects, including corner, edge, and grid detection techniques with OpenCV and Python
 - [x] Create Face Detection Software
 - [x] Segment Images with the Watershed Algorithm
-- [] Track Objects in Video
+- [x] Track Objects in Video
 - [] Use Python and Deep Learning to build image classifiers
 - [] Work with Tensorflow, Keras, and Python to train on your own custom images.
 

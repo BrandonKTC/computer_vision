@@ -14,8 +14,8 @@ I'll be exploring how to use Python and the OpenCV (Open Computer Vision) librar
 - [x] Create Face Detection Software
 - [x] Segment Images with the Watershed Algorithm
 - [x] Track Objects in Video
-- [] Use Python and Deep Learning to build image classifiers
-- [] Work with Tensorflow, Keras, and Python to train on your own custom images.
+- [x] Use Python and Deep Learning to build image classifiers
+- [x] Work with Tensorflow, Keras, and Python to train on your own custom images.
 
 
 from [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)

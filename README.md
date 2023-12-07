@@ -1,6 +1,6 @@
 # computer_vision
 
-This course is a resource for learning how to use the Python programming language for Computer Vision.
+This repository is a resource for learning how to use the Python programming language for Computer Vision.
 I'll be exploring how to use Python and the OpenCV (Open Computer Vision) library to analyze images and video data.
 
 - [x] Understand basics of NumPy
@@ -16,7 +16,7 @@ I'll be exploring how to use Python and the OpenCV (Open Computer Vision) librar
 - [x] Track Objects in Video
 - [x] Use Python and Deep Learning to build image classifiers
 - [x] Work with Tensorflow, Keras, and Python to train on your own custom images.
-- [x] Implementation prgm YOLOv8
+- [x] Implementation of YOLOv8 
 
 
 from [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
